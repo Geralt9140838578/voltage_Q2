@@ -1,1 +1,1 @@
-# voltage_Q2
+# voltage_Q2 :- The voltage divider and comparator circuit can be used to sense the voltage of a battery and trigger an interrupt based on specific threshold voltages. The circuit can be simulated in LTSpice using the provided circuit diagram and component values. This circuit can be useful in battery-powered applications where monitoring the battery voltage is important for maintaining optimal performance.
